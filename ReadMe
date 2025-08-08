@@ -1,0 +1,27 @@
+DataTech/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com.DataTech
+│   │   │       ├── Base/             # Driver initialization and setup
+│   │   │       ├── Config/           # Configuration reader
+│   │   │       ├── enums/            # Browser type enums
+│   │   │       ├── factory/          # DriverFactory for ThreadLocal WebDriver
+│   │   │       ├── Pages/            # Page classes using POM
+│   │   │       └── utils/            # Utility classes
+│   │   └── resources/
+│   │       └── prod.Properties       # Environment configuration
+│
+│   ├── test/
+│   │   ├── java/
+│   │   │   └── com.DataTech
+│   │   │       └── Tests/            # Test classes with TestNG
+│   │   └── resources/
+│   │       ├── log4j2.xml            # logger File
+│——logs
+│   |—— automation.log  #logs captured during execution
+│   
+│
+├── pom.xml                           # Maven configuration
+├── test-output/                      # TestNG results (ignored in git)
+└── .gitignore                        # File exclusions

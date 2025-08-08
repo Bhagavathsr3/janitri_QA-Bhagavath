@@ -1,5 +1,5 @@
-21:14:43.954 [main] INFO  com.janitri.Pages.LoginPage - Displayed error message is Error: To proceed to the login page please allow 'Notifications' and then click 'Reload' to continue.
-21:14:46.222 [main] ERROR com.janitri.Pages.LoginPage - FAIL: Login button is enabled when fields are empty
-21:14:48.273 [main] INFO  com.janitri.Pages.LoginPage - Before Clicking ToggleBtn :Password Not Visible
-21:14:48.471 [main] INFO  com.janitri.Pages.LoginPage - After Clicking ToggleBtn : Password Visible
-21:14:50.862 [main] INFO  com.janitri.Pages.LoginPage - Displayed error message is Error: To proceed to the login page please allow 'Notifications' and then click 'Reload' to continue.
+21:29:06.439 [main] INFO  com.janitri.Pages.LoginPage - Displayed error message is Error: To proceed to the login page please allow 'Notifications' and then click 'Reload' to continue.
+21:29:10.552 [main] ERROR com.janitri.Pages.LoginPage - FAIL: Login button is enabled when fields are empty
+21:29:18.654 [main] INFO  com.janitri.Pages.LoginPage - Before Clicking ToggleBtn :Password Not Visible
+21:29:18.869 [main] INFO  com.janitri.Pages.LoginPage - After Clicking ToggleBtn : Password Visible
+21:29:23.017 [main] INFO  com.janitri.Pages.LoginPage - Displayed error message is Error: To proceed to the login page please allow 'Notifications' and then click 'Reload' to continue.
